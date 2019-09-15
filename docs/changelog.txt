@@ -1,0 +1,8 @@
+Changelog for TinyMCE4-ms2Gallery Plugin
+------------------------------------------------
+
+Version: 0.0.1-beta
+Date: 15 September 2019
+==============
+- Release
+------------------------------------------------
